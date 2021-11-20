@@ -1,0 +1,1 @@
+public record Todo(string Title, string Body);
